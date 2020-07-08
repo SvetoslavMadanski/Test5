@@ -1,0 +1,10 @@
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\bin\Debug\studenti.exe.config
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\bin\Debug\studenti.exe
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\bin\Debug\studenti.pdb
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\obj\Debug\studenti.csprojAssemblyReference.cache
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\obj\Debug\studenti.Form1.resources
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\obj\Debug\studenti.Properties.Resources.resources
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\obj\Debug\studenti.csproj.GenerateResource.cache
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\obj\Debug\studenti.csproj.CoreCompileInputs.cache
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\obj\Debug\studenti.exe
+C:\Users\Svetlio - PC\source\repos\studenti\studenti\obj\Debug\studenti.pdb
